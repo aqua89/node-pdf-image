@@ -1,7 +1,7 @@
 # pdf-image
 
 Provides an interface to convert PDF's pages to png files in Node.js
-by using ImageMagick.
+by using ImageMagick. Uses bluebird Promises instead of es6-promises.
 
 ## Installation
 

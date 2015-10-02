@@ -1,6 +1,6 @@
 // node-pdf
 
-var Promise = require("es6-promise").Promise;
+var Promise = require("bluebird");
 
 var path = require("path");
 var fs   = require("fs");
